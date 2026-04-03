@@ -13,7 +13,7 @@ Preparation for the USA AI Olympiad (USAAIO) and broader ML competition work.
 
 ## Structure
 - `Foundations/` — math and stats prerequisites
-- `Implementations/` — core ML concepts implemented from scratch in PyTorch
+- `Implementations/` — core ML concepts implemented from scratch
 - `Papers/` — reading notes on key papers
 - `competition-prep/` — USAAIO practice and past problems
 
