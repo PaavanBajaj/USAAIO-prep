@@ -84,6 +84,7 @@ matplotlib
 seaborn
 plotly
 bokeh
+manim
 
 # ================================
 # Model Serving / APIs
